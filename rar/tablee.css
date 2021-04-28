@@ -1,0 +1,48 @@
+.yashil{
+    position: absolute;
+left: 20%;
+top: 10%;
+width: 150px;
+height: 150px;
+border-radius: 50%;
+border: 6px solid rgb(0, 255, 0);
+  }
+
+.sariq{
+    position: absolute;
+left: 30%;
+top: 10%;
+width: 150px;
+height: 150px;
+border-radius: 50%;
+border: 6px solid rgb(251, 255, 0);
+}
+.kok{ 
+    position: absolute;
+left: 40%;
+top: 10%;
+width: 150px;
+height: 150px;
+border-radius: 50%;
+border: 6px solid blue;
+
+}
+.qizil{
+    position: absolute;
+left: 35%;
+top: 29%;
+width: 150px;
+height: 150px;
+border-radius: 50%;
+border: 6px solid rgb(255, 17, 0);
+
+}
+.malla{
+    position: absolute;
+left: 25%;
+top: 29%;
+width: 150px;
+height: 150px;
+border-radius: 50%;
+border: 6px solid rgb(85, 55, 10);
+
